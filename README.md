@@ -1,5 +1,5 @@
 # 舞蹈動作分解與即時同步矯正系統
-## (AI K-Pop Dance Trainer)
+## (Dance Trainer)
 
 [![Course](https://img.shields.io/badge/Course-BA5077%20AIoT-blue.svg)](https://github.com)
 [![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%20%7C%20PC-brightgreen.svg)](https://www.raspberrypi.com/)
