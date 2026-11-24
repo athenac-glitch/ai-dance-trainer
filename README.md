@@ -161,26 +161,26 @@ python SOURCE/dance_trainer.py --cam 1
 
 ### 1. 圖形介面一鍵啟動器 (GUI Launcher)
 *展示 Tkinter 一鍵載入、影片選取與後台特徵提取進度狀態。*
-```text
+
 ![GUI Launcher](EVIDENCE/demo_launcher.png)
-```
+
 
 ### 2. 系統雙視窗即時比對成果 (Dual View Workout)
 *展示左側標準 Fancam 骨架疊加與右側即時鏡頭畫面（正常姿態呈亮綠色合格標籤）。*
-```text
+
 ![Sync Normal Screenshot](EVIDENCE/demo_normal.png)
-```
+
 
 ### 3. 動作偏差紅色警示截圖 (Angle Error Warning)
 *展示當手臂或膝蓋彎曲角度超出容許誤差（±20°）時，肢體顯示紅色骨架之畫面。*
-```text
+
 ![Sync Error Screenshot](EVIDENCE/demo_error.png)
-```
+
 
 ### 4. 即時同步率與 HUD 數據儀表板 (Sync % Dashboard)
-```text
+
 ![HUD Dashboard](EVIDENCE/demo_hud.png)
-```
+
 
 ---
 
