@@ -189,7 +189,7 @@ python SOURCE/dance_trainer.py --cam 1
 
 
 - **技術挑戰（左右鏡像座標對齊）**：藉由 OpenCV cv2.flip(1) 水平翻轉與視覺對稱鏡面（Mirror Dance）肢體映射邏輯（支援 M 鍵即時切換模式），搭配三點內積相對夾角運算，消除自學練舞時的左右混淆與站姿偏移干擾。
-  
+- 
 -**GUI 自動化整合（Tkinter 一鍵啟動器）**：透過 Python 內建 tkinter 打造輕量圖形介面啟動器，自動檢查 data/ 特徵快取（有 .json 檔即零等待秒開、新影片則於背景自動呼叫 extract_pose.py 萃取並顯示進度條），搭配視窗自動切換，大幅降低操作門檻。
 
 ---
