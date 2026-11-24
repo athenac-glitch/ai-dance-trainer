@@ -10,6 +10,7 @@
 
 ## 📌 課程資訊 (Course Information)
 - **課程代號與名稱**：BA5077 人工智慧物聯網 (AIoT)
+- **指導老師**：劉書銘 老師
 - **學生姓名 (Name)**：張瑜庭
 - **學生學號 (Student ID)**：113401532
 - **作業項目**：個人實作專案 (Personal Implementation Project)
