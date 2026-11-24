@@ -1,4 +1,4 @@
-# AI 韓團舞蹈動作分解與即時同步矯正系統
+# 舞蹈動作分解與即時同步矯正系統
 ## (AI K-Pop Dance Trainer)
 
 [![Course](https://img.shields.io/badge/Course-BA5077%20AIoT-blue.svg)](https://github.com)
