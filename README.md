@@ -158,7 +158,7 @@ python SOURCE/dance_trainer.py --cam 1
 ---
 
 ## 📸 EVIDENCE（成果展示與 Demo 區）
-> 成果截圖與 Demo 檔案請統一存放於 [`EVIDENCE/`](./EVIDENCE) 資料夾。
+> 更多成果截圖存放於 [`EVIDENCE/`](./EVIDENCE) 資料夾。
 
 ### 1. 圖形介面一鍵啟動器 (GUI Launcher)
 *展示 Tkinter 一鍵載入、影片選取與後台特徵提取進度狀態。*
